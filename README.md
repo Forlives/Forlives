@@ -40,11 +40,30 @@
 
 ---
 
+## ⛏️ PEARL 矿池中转加速器（在线服务）
+
+[![pearl-proxy](https://img.shields.io/github/stars/Forlives/pearl-proxy-release?style=flat&logo=github&label=pearl-proxy-release)](https://github.com/Forlives/pearl-proxy-release)
+
+珍珠币（PEARL / PRL）专用矿池中转加速器：Go 高性能、降延迟提份额、实时可视化面板、防 DDoS、透明抽水。源码闭源，二进制混淆加壳，一键安装。
+
+**🔗 作者公开测试节点（可直接连，欢迎试跑）**
+
+```
+矿池地址：stratum+tcp://pool.cf.edu.kg:3333
+管理面板：https://panel.cf.edu.kg
+```
+
+> 💎 **抽水透明**：本测试节点对外收取 **1% 服务费**（作者维护费），面板实时公开抽水窗口与归属，完全可查。
+> 自建部署的软件默认作者底费仅 **0.3%**，按运营者自抽档位阶梯递增 —— 详见 [pearl-proxy-release](https://github.com/Forlives/pearl-proxy-release)。
+
+---
+
 ## 🌟 Featured Projects
 
 | 项目 | 简介 | 技术 |
 | --- | --- | --- |
 | [relay-api-hub](https://github.com/Forlives/relay-api-hub) ⭐ | 一键检测 Claude / GPT / Gemini 中转站是否掺水 | TypeScript |
+| [pearl-proxy-release](https://github.com/Forlives/pearl-proxy-release) ⛏️ | PEARL/PRL 矿池中转加速器 · 测试节点 `pool.cf.edu.kg:3333`（1%） | Go |
 | [nce-video-pipeline](https://github.com/Forlives/nce-video-pipeline) | NCE 新概念英语 AI 视频全自动生产管线 | Python · FastAPI · ffmpeg |
 | [mygame](https://github.com/Forlives/mygame) | Bacteria War — 细菌大战 HTML5 策略游戏 | JavaScript |
 | [qujihaizhe](https://github.com/Forlives/qujihaizhe) | 莱州曲记海蜇 — 商业站点 | TypeScript |
